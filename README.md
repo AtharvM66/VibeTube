@@ -5,4 +5,4 @@
 - Tailwind CSS package installations: https://tailwindcss.com/docs/installation
 - Node.js: https://nodejs.org/en
 - To run npm start
-
+- hosted on: https://rainbow-cannoli-f06e66.netlify.app/
